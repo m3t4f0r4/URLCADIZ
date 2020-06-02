@@ -176,6 +176,6 @@ def Other():
         os.system('clear')
         exit()
 
-#SYSCALL
+
 
 Main()
